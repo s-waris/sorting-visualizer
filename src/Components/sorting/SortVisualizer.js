@@ -83,9 +83,7 @@ class SortVisualizer extends Component {
                             {item}
                         </div>))}
                 </div>
-                <div class = "footer">
-                    <p align="center" style={{fontSize : "18px" ,lineHeight : "20vh" }}>Beta Version Made in <span style={{color: "red"}}>&#9829;</span> with Mayank Raghuvanshi</p>
-                </div>
+                <div class = "footer"></div>
             </div>
         );
     }
